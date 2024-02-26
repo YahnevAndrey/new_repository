@@ -1,4 +1,5 @@
 def acception(str):
+
     "Функция переводит слово в заглавные буквы"
     return str.upper
 
